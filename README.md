@@ -2,8 +2,8 @@
 
 | Field | Details |
 |-------|--------|
-| **Author** | Aditya Shibu |
-| **Roll Number** | 2401201047 |
+| **Author** | Pushkar Mishra |
+| **Roll Number** | 2401201052 |
 | **Course** | BCA (AI & DS) - Section B |
 | **Semester** | 5 |
 | **University** | K.R. Mangalam University |
